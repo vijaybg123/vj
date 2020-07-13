@@ -29,8 +29,7 @@ This the Udacity Data Scientist Nanodegree Program Project.
 For this Project, i am using Stack Overflow data from 2018 and 2019 to answer:</br>
     1. Which are the most used programming languages around the world in 2018 and 2019?</br>
     2. Which are the most uded programming languages in the United States?</br>
-    3. Career satisfaction growth in United States in 2018 and 2019.</br>
-    4. Job satisfaction growth in United States in 2018 and 2019.</br>
+    3. Career satisfaction in United States in 2018 and 2019.</br>
     
 ## File Description <a name="Files"></a>
 
