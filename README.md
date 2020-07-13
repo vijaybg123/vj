@@ -52,7 +52,7 @@ To plot the graphs, we uses matplotlib and seaborn libraries.
 
 ## Results <a name="results"></a>
 
-
+The results can be found at the post at [here](https://medium.com/@coolvijaygowdachintu/trending-programming-language-and-career-satisfaction-f0db5ae23d4f)
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Credit - The data belongs Stack Overflow. Licensing is found at the Stack Overflow link https://insights.stackoverflow.com/survey.
