@@ -43,12 +43,13 @@ The data files contains rows representing different respondants of the survey an
 
 ## Data Preparation <a name="Prepare"></a>
 
-The gathered data is assessed, cleaned and required columns are extracted. Here, we use Numpy and Pandas libraries.
+The gathered data is assessed, cleaned and required columns are extracted. Here, we use Numpy and Pandas libraries. For extra information check Notebook.
 
 ## Data Modeling <a name="Model"></a>
 
 The graphs in the Notebook represents different behaviors to answer those questions.
 To plot the graphs, we uses matplotlib and seaborn libraries.
+For extra information check Notebook.
 
 ## Results <a name="results"></a>
 
